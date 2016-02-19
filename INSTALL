@@ -1,0 +1,9 @@
+Building Destiny
+
+See doc/readme-qt.rst for instructions on building Destiny QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Destiny.
+
+See doc/build-*.txt for instructions on building destinyd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Destiny.
